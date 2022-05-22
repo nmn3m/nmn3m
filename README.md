@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Noureddine - aka mn3m
 
-## I'm an undergraduate Electronics and Communication Engineer, a geek with technology especially DevOps and Cloud computing.
+## A DevOps/Cloud geek, ECE undergraduate.
 - 🌱 I’m currently learning Infrastructure as code, CI/CD, Monitoring and Cloud technology.
 - 💞️ I’m looking to contribute to DevOps culture, cloud computing technology, and open source projects related to this field.
 
