@@ -19,4 +19,8 @@
 [<img src="https://img.icons8.com/plasticine/64/bash.png" >](https://www.gnu.org/software/bash/)
 [<img src="https://img.icons8.com/color/64/linux--v1.png" >](https://www.tutorialspoint.com/linux_admin/index.htm)
 
-[![nmn3m's GitHub stats](https://github-readme-stats.vercel.app/api?username=nmn3m&show_icons=true&theme=merko)](https://github.com/nmn3m/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmn3m&layout=compact&theme=chartreuse-dark)](https://github.com/nmn3m/github-readme-stats)
+<br>
+[![nmn3m's GitHub stats](https://github-readme-stats.vercel.app/api?username=nmn3m&show_icons=true&theme=chartreuse-dark)](https://github.com/nmn3m/github-readme-stats)
+
