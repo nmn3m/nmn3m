@@ -1,8 +1,8 @@
 # 👋 Hi there, I’m Noureddine - aka mn3m
 
-## A DevOps/Cloud geek, ECE undergraduate.
-- 🌱 I’m currently learning Infrastructure as code, CI/CD, Monitoring and Cloud technology.
-- 💞️ I’m looking to contribute to DevOps culture, cloud computing technology, and open source projects related to this field.
+## A DevOps/SRE geek.
+-  I’m currently studying cloud security.
+-  I’m looking to contribute to DevOps culture, cloud computing technology, and open source projects related to this field.
 
 ## Connect with me:
 [<img src="https://img.icons8.com/color/64/linkedin.png" >](https://www.linkedin.com/in/nmn3m/)
@@ -19,7 +19,8 @@
 [<img src="https://img.icons8.com/color/64/terraform.png" >](https://www.terraform.io/)
 [<img src="https://img.icons8.com/color/64/ansible.png" >](https://www.ansible.com/)
 [<img src="https://img.icons8.com/color/64/amazon-web-services.png" >](https://aws.amazon.com/)
-[<img src="https://img.icons8.com/color/64/gitlab.png" >](https://docs.gitlab.com/ee/ci/)
+[<img src="https://img.icons8.com/color/64/gitlab.png" >]
+(https://docs.gitlab.com/ee/ci/)
 [<img src="https://img.icons8.com/color/64/jenkins.png" >](https://www.jenkins.io/)
 [<img src="https://img.icons8.com/color/64/prometheus-app.png" >](https://prometheus.io/docs/introduction/overview/)
 [<img src="https://img.icons8.com/color/64/grafana.png" >](https://grafana.com/)
