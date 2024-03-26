@@ -19,8 +19,7 @@
 [<img src="https://img.icons8.com/color/64/terraform.png" >](https://www.terraform.io/)
 [<img src="https://img.icons8.com/color/64/ansible.png" >](https://www.ansible.com/)
 [<img src="https://img.icons8.com/color/64/amazon-web-services.png" >](https://aws.amazon.com/)
-[<img src="https://img.icons8.com/color/64/gitlab.png" >]
-(https://docs.gitlab.com/ee/ci/)
+[<img src="https://img.icons8.com/color/64/gitlab.png" >](https://docs.gitlab.com/ee/ci/)
 [<img src="https://img.icons8.com/color/64/jenkins.png" >](https://www.jenkins.io/)
 [<img src="https://img.icons8.com/color/64/prometheus-app.png" >](https://prometheus.io/docs/introduction/overview/)
 [<img src="https://img.icons8.com/color/64/grafana.png" >](https://grafana.com/)
