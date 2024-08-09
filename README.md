@@ -6,8 +6,7 @@
 
 ## Connect with me:
 [<img src="https://img.icons8.com/color/64/linkedin.png" >](https://www.linkedin.com/in/nmn3m/)
-[<img src="https://img.icons8.com/doodle/64/reddit--v1.png" >](https://www.reddit.com/user/nmn3m)
-[<img src="https://img.icons8.com/fluency/64/twitter.png" >](https://twitter.com/nmn3m)
+
 
 ## Language and Tools:
 [<img src="https://img.icons8.com/color/64/golang.png" >](https://go.dev/)
