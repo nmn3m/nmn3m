@@ -1,4 +1,5 @@
 # 👋 Hi there, I’m Noureldin Abdelmonem - aka mn3m
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nmn3m&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## DevOps Engineer | Cloud Enthusiast | SRE Practitioner
 
@@ -54,3 +55,7 @@ I am a DevOps Engineer with over 2 years of hands-on experience in building and 
 - **Cybersecurity Member** at **CAT Reloaded** 
 - **Social Media Member** at **CAT Reloaded**  
 
+---
+## GitHub Activity
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nmn3m&theme=chartreuse_dark" alt="GitHub Profile Summary" style="width: 100%;"/>
